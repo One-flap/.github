@@ -1,0 +1,2 @@
+# .github
+Startup in dimigo.
